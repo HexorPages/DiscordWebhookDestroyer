@@ -1,1 +1,1 @@
-# DiscordWebhookNuker
+# DiscordWebhookSpammer

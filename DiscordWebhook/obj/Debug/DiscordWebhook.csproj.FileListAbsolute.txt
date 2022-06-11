@@ -1,0 +1,11 @@
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.exe.config
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.exe
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.pdb
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.AssemblyReference.cache
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.SuggestedBindingRedirects.cache
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.Form1.resources
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.Properties.Resources.resources
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.GenerateResource.cache
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.CoreCompileInputs.cache
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.exe
+C:\Users\tetri\Desktop\Malware\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.pdb
